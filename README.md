@@ -20,7 +20,7 @@ Zu Beginn erhält jeder Spieler 5 Karten. Jeder Spieler kann maximal **8 Handkar
 #### **Aktionen** 🛠️
 Während des Spiels können die Spieler folgende Aktionen durchführen:
 
-- **Play**: Eine Karte aus der Hand in die Mitte legen. Sie muss entweder den gleichen **Typ** ❤️♠️♦️♣️ oder den gleichen **Wert** 🔢 wie die Karte in der Mitte haben.
-- **Swap**: Eine Karte aus der Hand mit einer Karte aus der Mitte tauschen.
-- **Draw**: Eine Karte vom Nachziehstapel ziehen und zur Hand hinzufügen.
-- **Discard**: Eine Karte abwerfen, wenn man mehr als 8 Handkarten besitzt.
+- **Play**  🃏: Eine Karte aus der Hand in die Mitte legen. Sie muss entweder den gleichen **Typ** ❤️♠️♦️♣️ oder den gleichen **Wert** 🔢 wie die Karte in der Mitte haben.
+- **Swap**  🔄: Eine Karte aus der Hand mit einer Karte aus der Mitte tauschen.
+- **Draw**  🃎: Eine Karte vom Nachziehstapel ziehen und zur Hand hinzufügen.
+- **Discard**  🗑️: Eine Karte abwerfen, wenn man mehr als 8 Handkarten besitzt.
